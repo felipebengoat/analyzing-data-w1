@@ -11,7 +11,7 @@ This project contains NLP exercises including:
 - **Part 2**: Named Entity Recognition (NER) evaluation
 
 ## Project Structure
-
+```
 ├── data/
 │   ├── Part_1/          # 5 story texts
 │   └── Part_2/          # Tom Sawyer translations (EN, NL, DE)
@@ -19,7 +19,7 @@ This project contains NLP exercises including:
 │   └── W1_NLP_Analysis.ipynb
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Setup
 
