@@ -1,0 +1,5 @@
+jupyter
+nltk
+spacy
+matplotlib
+pandas
